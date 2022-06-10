@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world");
 
         System.out.println("Mathias est sur le projet egl");
-        
+
         System.out.println("Je m'appelle Mathias");
 
     }
