@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("Je m'appelle Luan");
 
-        System.out.println("Je m'appelle Noé");
+        System.out.println("Je m'appelle luan");
         
 
 
