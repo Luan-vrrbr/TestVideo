@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println("Mathias est sur le projet egl");
 
-        System.out.println("Je m'appelle Noé");
+        System.out.println("Je m'appelle mathias");
         
 
     }
